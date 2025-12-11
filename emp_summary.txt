@@ -1,0 +1,4 @@
+Top 3 Employees by Salary:
+1. Alice Johnson - $95,000 - Engineering - Senior Developer - Hired on 2020-03-15
+2. Carol Davis - $85,000 - Marketing - Marketing Manager - Hired on 2019-08-20
+3. Bob Smith - $75,000 - Engineering - Software Engineer - Hired on 2021-06-01
